@@ -1,6 +1,6 @@
 body {
-    /*opacity:0;
-    transition: opacity 1s ease-in-out;*/
+    opacity:0;
+    transition: opacity 1s ease-in-out;
     color:black;
     font-family: Marker Felt, 'Courier New', Courier, monospace;
     text-align: center;
