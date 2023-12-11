@@ -1,0 +1,23 @@
+body {
+    /*opacity:0;
+    transition: opacity 1s ease-in-out;*/
+    color:black;
+    font-family: Marker Felt, 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 100px;
+    background-color: transparent;
+}
+html{
+    background: url("https://www.public.asu.edu/~jmgarc72/pfp.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+h1 {
+    font-size: 40px;
+    color: rgb(8, 86, 137);
+}
+h2{
+    font-size: 20px;
+    text-align: center
+}
